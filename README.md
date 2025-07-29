@@ -46,3 +46,5 @@ Shows weather condition icons dynamically using Blade conditionals
 Basic table styling with inline HTML/CSS
 
 Screenshot:
+
+<img width="1852" height="996" alt="image" src="https://github.com/user-attachments/assets/d52bb002-adce-442d-9b98-35f3c89e0635" />
